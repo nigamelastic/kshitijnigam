@@ -72,7 +72,9 @@
                     <h2 class="heading">About Me</h2>
                 </div>
                 <div class="col-md-8">
-                    <p> </p>
+                    <p>
+                        A Technology enthusiast with 6 years of professional experience. I am an active member of various open source knowledge sharing communities. As a top contributor for google maps, I also became a part of latest “Google maps Beta”. You can find my work at my github account. I also like to work on pet projects apart from my professional experience which includes but is not limited to, Automation using Espresso and Circle CI, Automation using apple script and pyautogui and angular/node js. With a strong interest in AI , hybrid Automation and Security, I am also a member of OWASP pune chapter and open coffee club amongst various others. I am currently living in “Vienna” with a “RWR” card and am actively looking for my next change. Holding a “B1/B2 US Visa” for next 9 years, have experience in working on site. I also love giving back to the community and am an active member and teacher for different NGOs namely: “Blue Cross”, “Saath Saath”, “Angel Express”, “Tech for Seva”. I love to teach dance, practice martial arts and play basketball whenever i get time out of my routine work. An avid comic/manga reader.
+                    </p>
                 </div>
             </div>
         </div>
@@ -241,26 +243,26 @@ parsing using JAVA</br>
             <li>Kali Linux</li>
             <li>Node.js</li>
             <li>OpenVAS</li>
-            <li>Qualys Scanner</li>
+            <li>Qualys CLoud Scanner</li>
             <li>Burp Suite</li>
             <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
+            <li>JMeter</li>
+            <li>NetCat</li>
+            <li>Appium</li>
+            <li>Selenium</li>
+            <li>GoBuster</li>
+            <li>Cypress</li>
+            <li>MOB SF</li>
+            <li>Puppeteer</li>
+            <li>Postman</li>
+            <li>NMap</li>
+            <li>SQLMap</li>
+            <li>OWASP ZAP</li>
+            <li>Nikto</li>
+            <li>PyAutoGUI</li>
+            <li>Power Shell</li>
+            <li>Shell Scripting</li>
+            <li>TOSCA</li>
         </ul>
     </div>
     <!-- End #skills -->
